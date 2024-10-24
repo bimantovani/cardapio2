@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0%;
+    background-color: #F5F5F5;
+}
+
+h1{
+    color: #F5F5F5;
+    text-align: center;
+    background-color: #8B0000 ;
+    padding: 2%;
+}
+
+fieldset{
+    margin-left: 38%;
+    margin-right: 38%;
+    border: 2px solid #dbaeaed5;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 1cap;
+}
+
+.titulo {
+    color: #8B0000;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+input[type="checkbox"] {
+    margin-right: 10px;
+}
+
+select {
+    padding: 5px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+}
+
+textarea {
+    width: 90%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #dbaeaed5;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+input[type="submit"]{
+    color: #ccc;
+    background-color: #8B0000;
+    border: none;
+    padding: 3%;
+    border-radius: 1cap;
+}
